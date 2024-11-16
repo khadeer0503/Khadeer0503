@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi 👋 I am Mohammed Khsdeeruddin
 # 💫 About Me:
-CTLup
+🔭 I’m currently working on CTLup
 
 
 ## 🌐 Socials:
