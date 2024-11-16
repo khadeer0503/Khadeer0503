@@ -1,4 +1,4 @@
-## Hi 👋 I am Mohammed Khsdeeruddin
+## Hi 👋 I am Mohammed Khadeeruddin
 # 💫 About Me:
 🔭 I’m currently working on CTLup
 
