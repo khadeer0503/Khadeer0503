@@ -27,6 +27,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Khadeer0503&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=khadeer0503&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
