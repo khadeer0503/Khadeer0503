@@ -1,6 +1,7 @@
 ## Hi 👋 I am Mohammed Khadeeruddin
 # 💫 About Me:
-🔭 I’m currently working on CTLup
+- 🔭 I’m currently working in CTLup
+- 🌱 I’m happy to learn ...
 
 
 ## 🌐 Socials:
